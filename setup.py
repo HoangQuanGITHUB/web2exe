@@ -8,7 +8,7 @@ setup(
     author_email='caohoangquannguyen.com',
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    url='https://github.com/HoangQuanMCGITHUB/web2exe_python',
+    url='https://github.com/HoangQuanMCGITHUB/web2exe',
     keywords='web to app',
     install_requires=[
           'PyQt5',
