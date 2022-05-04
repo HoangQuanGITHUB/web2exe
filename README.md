@@ -1,10 +1,8 @@
 # Hello!
 Welcome to my project!
 
-![Banner]
+## How to use
 
-
-##How to use
 Set the title
 1) To set the title, you should following these codes:
 ```
