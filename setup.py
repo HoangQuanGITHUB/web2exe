@@ -5,7 +5,7 @@ setup(
     version='0.6',
     license='MIT',
     author="HoangQuanGITHUB",
-    author_email='caohoangquannguyen.com',
+    author_email='caohoangquannguyen@gmail.com',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     url='https://github.com/HoangQuanGITHUB/web2exe',
